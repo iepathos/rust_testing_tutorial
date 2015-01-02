@@ -1,0 +1,5 @@
+[package]
+
+name = "testing_tutorial"
+version = "0.0.1"
+authors = ["Glen Baker <iepathos@gmail.com>"]
